@@ -21,4 +21,4 @@ I deserve something
 
 (Now read from bottom)
 
-I have two sides (in fact everyone does), it's you who decides which side I'am in your thoughts.
+# I have two sides (in fact everyone has), it's you who decides which side I'am in your thoughts.
