@@ -3,4 +3,4 @@ It states:
 * Simplest solution is always the right one
 
 This folder shows one of my brilliant experiments I did  
-to uncover the bad habits of many youths (it's like a sting operation)
+to identify the number of youths who are addicted to *or*ography
