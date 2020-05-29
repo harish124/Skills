@@ -3,4 +3,4 @@ It states:
 * Simplest solution is always the right one
 
 This folder shows one of my brilliant experiments I did  
-to identify the number of youths who are addicted to *or*ography
+to identify the number of youths who are addicted to `*`or`*`ography
